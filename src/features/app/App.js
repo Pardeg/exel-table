@@ -68,15 +68,16 @@ class App extends React.Component {
                 />
                 </tbody>
             </table>
-                <span className='colSumContainer'>
-                  {colSum>0?`сумма за ${colName}:${colSum}`:
-                  `Сумма за выбранное число`}
-                </span>
+                <span className='rowSumContainer'>{
+                    rowSum>0?`сумма ${rowName} : ${rowSum}`
+                        :`Сумма по выбранной работе`
+                }</span>
+
             </div>
-            <span className='rowSumContainer'>{
-                rowSum>0?`сумма ${rowName} : ${rowSum}`
-                    :`Сумма по выбранной работе`
-            }</span>
+            <span className='colSumContainer'>
+                  {colSum>0?`сумма за ${colName}:${colSum}`:
+                      `Сумма за выбранное число`}
+                </span>
         </div>
     }
 }
