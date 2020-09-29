@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/exel-table/static/css/main.8c824727.chunk.css",
+    "main.js": "/exel-table/static/js/main.b651978d.chunk.js",
+    "main.js.map": "/exel-table/static/js/main.b651978d.chunk.js.map",
+    "runtime-main.js": "/exel-table/static/js/runtime-main.00453550.js",
+    "runtime-main.js.map": "/exel-table/static/js/runtime-main.00453550.js.map",
+    "static/js/2.d8fbbdc6.chunk.js": "/exel-table/static/js/2.d8fbbdc6.chunk.js",
+    "static/js/2.d8fbbdc6.chunk.js.map": "/exel-table/static/js/2.d8fbbdc6.chunk.js.map",
+    "index.html": "/exel-table/index.html",
+    "precache-manifest.ec09dbc6df453fd27cf33234d5ebb9cd.js": "/exel-table/precache-manifest.ec09dbc6df453fd27cf33234d5ebb9cd.js",
+    "service-worker.js": "/exel-table/service-worker.js",
+    "static/css/main.8c824727.chunk.css.map": "/exel-table/static/css/main.8c824727.chunk.css.map",
+    "static/js/2.d8fbbdc6.chunk.js.LICENSE.txt": "/exel-table/static/js/2.d8fbbdc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00453550.js",
+    "static/js/2.d8fbbdc6.chunk.js",
+    "static/css/main.8c824727.chunk.css",
+    "static/js/main.b651978d.chunk.js"
+  ]
+}
